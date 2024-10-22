@@ -1,0 +1,40 @@
+{
+    "mediaList": [
+      {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "publicationYear": 1965,
+        "type": "Book",
+        "length": "412 pages"
+      },
+      {
+        "title": "Atom, man, and the universe",
+        "author": "Hannes Alfvén",
+        "publicationYear": 1969,
+        "type": "Book",
+        "length": "110 pages"
+      },
+      {
+        "title": "Starman",
+        "author": "David Bowie",
+        "publicationYear": 1972,
+        "type": "Music",
+        "length": "4 minutes 16 seconds"
+      },
+      {
+        "title": "Rocket League",
+        "author": "Psyonix/Epic games",
+        "publicationYear": 2015,
+        "type": "Game",
+        "length": "∞ hours"
+      },
+      {
+        "title": "Blade Runner 2049",
+        "author": "Denis Villeneuve",
+        "publicationYear": 2017,
+        "type": "Movie",
+        "length": "2 hours 44 minutes"
+      }
+    ]
+  }
+  
